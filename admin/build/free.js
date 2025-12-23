@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=window.wp.element,t=window.ReactJSXRuntime;function n(){return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)("h1",{children:"Example – Free"}),(0,t.jsx)("p",{children:"Upgrade to Pro to unlock more features."})]})}(0,e.createRoot)(document.getElementById("example-admin-root")).render((0,t.jsx)(n,{}))})();
