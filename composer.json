@@ -1,0 +1,16 @@
+{
+  "name": "mks/example-free",
+  "description": "Example Free WordPress Plugin",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "ExampleFree\\": "php/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}

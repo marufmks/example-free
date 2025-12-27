@@ -9,3 +9,5 @@ logs/
 .vscode/
 *.bak
 *.tmp
+composer.lock
+vendor/

@@ -9,7 +9,7 @@ module.exports = {
   },
 
   output: {
-    path: path.resolve(__dirname, 'admin/build'),
+    path: path.resolve(__dirname, 'assets/admin/build'),
     filename: 'free.js'
   }
 };
