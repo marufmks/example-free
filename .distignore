@@ -1,0 +1,17 @@
+node_modules/
+package-lock.json
+package.json
+.DS_Store
+.env
+logs/
+*.log
+.cache/
+.idea/
+.vscode/
+*.bak
+*.tmp
+composer.lock
+composer.json
+webpack.config.js
+src/
+.gitignore
